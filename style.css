@@ -67,3 +67,8 @@ h1 {
   height: 1cm !important;
   width: 3cm !important;
 }
+.jj,
+.jk {
+  border: 2px solid black;
+  background-color: white;
+}
