@@ -6,9 +6,9 @@
 }
 body {
   border: 2px solid black !important;
-  margin: 10px !important;
+  margin: 5px !important;
   font-size: 1.5rem !important;
-  height: 97vh !important;
+  
 }
 h1 {
   display: flex !important;
@@ -25,8 +25,8 @@ h1 {
 }
 .container {
   border: 2px solid black !important;
-
-  height: 60vh !important;
+margin-bottom: 100px;
+  
 }
 .demo1 {
   border: 2px solid black !important;
@@ -43,10 +43,10 @@ h1 {
   display: flex !important;
   align-items: center !important;
   justify-content: center !important;
-  height: 7cm !important;
-  width: 7cm !important;
-  margin-top: 30px !important;
-  margin-left: 100px !important;
+  height: 200px !important;
+  width: 200px !important;
+  margin-top: 50px !important;
+  margin-left: 100px!important;
   font-family: "Gloria Hallelujah", cursive;
 }
 .text {
@@ -64,11 +64,16 @@ h1 {
   gap: 10px !important;
 }
 .dd {
-  height: 1cm !important;
-  width: 3cm !important;
+  height: 40px !important;
+  width: 100px !important;
 }
 .jj,
 .jk {
   border: 2px solid black;
   background-color: white;
+  
+}
+.tb{
+  margin: 10px !important;
+  
 }
